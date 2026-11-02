@@ -2,7 +2,7 @@
 
 ## Project Goal
 In the Slack, users can add and use custom emojis. Its fun to be able to use them, however, it can be hard to find an exact emoji: you either have to scroll through all the emojis or memorize the exact name for the emoji. 
-This repo solves this problems through the use of a Chrome Extension: 
+This repo solves this problems through the use of a Chrome Extension, where users can make groups of emojis, locally save them in their browser, and access them conveniently. In that way, users can access slack emojis rapidly without having to memorize the names.
 
 ## MVP Scope
 The minimal viable product will have the following features: 
